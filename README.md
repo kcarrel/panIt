@@ -1,5 +1,5 @@
 # PanIt - Version 2(Mobile)
-A makeup collection and inspiration app built for the concious consumer.
+A makeup collection and inspiration app built for the conscious consumer.
 
 # Technology
 - Golang back end
